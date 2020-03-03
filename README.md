@@ -4,3 +4,4 @@
 2. Click on Download Zip 
 3. It will automatically download to the downloads directory
 4. Unzip the file
+5. Open and run the project
